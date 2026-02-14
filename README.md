@@ -1,4 +1,5 @@
 #🎄 Omnichannel Retail Performance Dashboard (Power BI)
+
 📌 Summary:
 This project was developed as part of the FP20 Analytics ZoomCharts Challenge 33. The dashboard analyzes omnichannel retail performance during the holiday season, focusing on sales, profit, returns, and fulfillment efficiency. It transforms retail transaction data into actionable insights to evaluate channel effectiveness, product performance, vendor contribution, and promotional impact.
 
@@ -43,4 +44,11 @@ Fulfillment performance insights highlighting operational efficiency
 Promotion performance tracking to evaluate marketing effectiveness
 This dashboard demonstrates how Power BI can be leveraged to deliver interactive business intelligence solutions that support strategic retail optimization.
 
-📸 Dashboard Preview: 
+📸 Dashboard Preview:
+
+![Retail Dashboard - Overview](https://github.com/aman12342100ok/-Omnichannel-Retail-Performance-Dashboard-Power-BI-/raw/main/Dashboard%20Preview.png)
+
+![Retail Dashboard - Channel & Product Analysis](https://github.com/aman12342100ok/-Omnichannel-Retail-Performance-Dashboard-Power-BI-/raw/main/Dashboard%20Preview%20b.png)
+
+![Retail Dashboard - Vendor & Promotion Insights](https://github.com/aman12342100ok/-Omnichannel-Retail-Performance-Dashboard-Power-BI-/raw/main/Dashboard%20Preview%20c.png)
+ 
