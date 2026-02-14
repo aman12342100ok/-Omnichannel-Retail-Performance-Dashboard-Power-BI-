@@ -1,4 +1,4 @@
-#🎄 Omnichannel Retail Performance Dashboard (Power BI)
+##🎄 Omnichannel Retail Performance Dashboard (Power BI)
 
 📌 Summary:
 This project was developed as part of the FP20 Analytics ZoomCharts Challenge 33. The dashboard analyzes omnichannel retail performance during the holiday season, focusing on sales, profit, returns, and fulfillment efficiency. It transforms retail transaction data into actionable insights to evaluate channel effectiveness, product performance, vendor contribution, and promotional impact.
